@@ -1,0 +1,106 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"5289eab0-5d17-4151-b732-47a7190631d3\" name=\"Changes\" comment=\"task 4_option2_Display number Of Survivors\">\r\n      <change afterPath=\"$PROJECT_DIR$/task5_option3_numberOfEachGender.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"SerifSalem\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/SerifSalem/QHO444_W11_Titanic.git\",\r\n    \"accountId\": \"217293f1-10ee-405c-8b0a-1bda79b2943d\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 1\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"38MCaydSX3f4WKjQGIuDig61qRW\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"RunOnceActivity.typescript.service.memoryLimit.init\": \"true\",\r\n    \"ai.playground.ignore.import.keys.banner.in.settings\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"last_opened_file_path\": \"C:/MyFiles/Python/PythonProject/QHO444_W11_Titanic\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\MyFiles\\Python\\PythonProject\\QHO444_W11_Titanic\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142\" />\r\n        <option value=\"bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"5289eab0-5d17-4151-b732-47a7190631d3\" name=\"Changes\" comment=\"\" />\r\n      <created>1768600119369</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1768600119369</updated>\r\n      <workItem from=\"1768600120408\" duration=\"521000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Task 1_Load Data\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1768600451633</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1768600451633</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Task 2_Create the Menu\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1768600496382</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1768600496382</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Task 3_Option 1 _Display all names\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1768600554661</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1768600554661</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"task 4_option2_Display number Of Survivors\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1768600606873</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1768600606873</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Task 1_Load Data\" />\r\n    <MESSAGE value=\"Task 2_Create the Menu\" />\r\n    <MESSAGE value=\"Task 3_Option 1 _Display all names\" />\r\n    <MESSAGE value=\"task 4_option2_Display number Of Survivors\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"task 4_option2_Display number Of Survivors\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 18accfb2393e3c70e5ad4012153b7d75f191ad01)
++++ b/.idea/workspace.xml	(date 1768601030606)
+@@ -4,8 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="5289eab0-5d17-4151-b732-47a7190631d3" name="Changes" comment="task 4_option2_Display number Of Survivors">
+-      <change afterPath="$PROJECT_DIR$/task5_option3_numberOfEachGender.py" afterDir="false" />
++    <list default="true" id="5289eab0-5d17-4151-b732-47a7190631d3" name="Changes" comment="Task 8 _Full Project">
++      <change beforePath="$PROJECT_DIR$/Task7_option5_numberOfSurvivalsPerAgeGroup.py" beforeDir="false" afterPath="$PROJECT_DIR$/task7_option5_numberOfSurvivalsPerAgeGroup.py" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Task8_fullProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/task8_fullProject.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -13,6 +14,11 @@
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+@@ -45,7 +51,7 @@
+     "RunOnceActivity.git.unshallow": "true",
+     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+     "ai.playground.ignore.import.keys.banner.in.settings": "true",
+-    "git-widget-placeholder": "master",
++    "git-widget-placeholder": "Full-Project",
+     "last_opened_file_path": "C:/MyFiles/Python/PythonProject/QHO444_W11_Titanic",
+     "node.js.detected.package.eslint": "true",
+     "node.js.detected.package.tslint": "true",
+@@ -75,7 +81,7 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1768600119369</updated>
+-      <workItem from="1768600120408" duration="521000" />
++      <workItem from="1768600120408" duration="908000" />
+     </task>
+     <task id="LOCAL-00001" summary="Task 1_Load Data">
+       <option name="closed" value="true" />
+@@ -109,7 +115,39 @@
+       <option name="project" value="LOCAL" />
+       <updated>1768600606873</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="task 5_option 3 _ Display number Of Each Gender">
++      <option name="closed" value="true" />
++      <created>1768600671434</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1768600671434</updated>
++    </task>
++    <task id="LOCAL-00006" summary="task 6_option 4_Display number Per Age Groups">
++      <option name="closed" value="true" />
++      <created>1768600719581</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1768600719581</updated>
++    </task>
++    <task id="LOCAL-00007" summary="Task 7_option 5_Display number Of Survivals Per Age Group">
++      <option name="closed" value="true" />
++      <created>1768600770003</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1768600770003</updated>
++    </task>
++    <task id="LOCAL-00008" summary="Task 8 _Full Project">
++      <option name="closed" value="true" />
++      <created>1768600864978</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1768600864978</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -120,6 +158,10 @@
+     <MESSAGE value="Task 2_Create the Menu" />
+     <MESSAGE value="Task 3_Option 1 _Display all names" />
+     <MESSAGE value="task 4_option2_Display number Of Survivors" />
+-    <option name="LAST_COMMIT_MESSAGE" value="task 4_option2_Display number Of Survivors" />
++    <MESSAGE value="task 5_option 3 _ Display number Of Each Gender" />
++    <MESSAGE value="task 6_option 4_Display number Per Age Groups" />
++    <MESSAGE value="Task 7_option 5_Display number Of Survivals Per Age Group" />
++    <MESSAGE value="Task 8 _Full Project" />
++    <option name="LAST_COMMIT_MESSAGE" value="Task 8 _Full Project" />
+   </component>
+ </project>
+\ No newline at end of file

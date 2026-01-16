@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5289eab0-5d17-4151-b732-47a7190631d3" name="Changes" comment="task 4_option2_Display number Of Survivors">
-      <change afterPath="$PROJECT_DIR$/task5_option3_numberOfEachGender.py" afterDir="false" />
+    <list default="true" id="5289eab0-5d17-4151-b732-47a7190631d3" name="Changes" comment="Task 8 _Full Project">
+      <change beforePath="$PROJECT_DIR$/Task7_option5_numberOfSurvivalsPerAgeGroup.py" beforeDir="false" afterPath="$PROJECT_DIR$/task7_option5_numberOfSurvivalsPerAgeGroup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task8_fullProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/task8_fullProject.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,23 +14,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SerifSalem"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SerifSalem&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SerifSalem/QHO444_W11_Titanic.git",
-    "accountId": "217293f1-10ee-405c-8b0a-1bda79b2943d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SerifSalem/QHO444_W11_Titanic.git&quot;,
+    &quot;accountId&quot;: &quot;217293f1-10ee-405c-8b0a-1bda79b2943d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="38MCaydSX3f4WKjQGIuDig61qRW" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,23 +44,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/MyFiles/Python/PythonProject/QHO444_W11_Titanic",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Full-Project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/MyFiles/Python/PythonProject/QHO444_W11_Titanic&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\MyFiles\Python\PythonProject\QHO444_W11_Titanic" />
@@ -72,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768600119369</updated>
-      <workItem from="1768600120408" duration="521000" />
+      <workItem from="1768600120408" duration="908000" />
     </task>
     <task id="LOCAL-00001" summary="Task 1_Load Data">
       <option name="closed" value="true" />
@@ -106,7 +115,39 @@
       <option name="project" value="LOCAL" />
       <updated>1768600606873</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task 5_option 3 _ Display number Of Each Gender">
+      <option name="closed" value="true" />
+      <created>1768600671434</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768600671434</updated>
+    </task>
+    <task id="LOCAL-00006" summary="task 6_option 4_Display number Per Age Groups">
+      <option name="closed" value="true" />
+      <created>1768600719581</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768600719581</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Task 7_option 5_Display number Of Survivals Per Age Group">
+      <option name="closed" value="true" />
+      <created>1768600770003</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768600770003</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Task 8 _Full Project">
+      <option name="closed" value="true" />
+      <created>1768600864978</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768600864978</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +158,10 @@
     <MESSAGE value="Task 2_Create the Menu" />
     <MESSAGE value="Task 3_Option 1 _Display all names" />
     <MESSAGE value="task 4_option2_Display number Of Survivors" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 4_option2_Display number Of Survivors" />
+    <MESSAGE value="task 5_option 3 _ Display number Of Each Gender" />
+    <MESSAGE value="task 6_option 4_Display number Per Age Groups" />
+    <MESSAGE value="Task 7_option 5_Display number Of Survivals Per Age Group" />
+    <MESSAGE value="Task 8 _Full Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 8 _Full Project" />
   </component>
 </project>
