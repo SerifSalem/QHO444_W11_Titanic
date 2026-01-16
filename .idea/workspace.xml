@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5289eab0-5d17-4151-b732-47a7190631d3" name="Changes" comment="task 4_option2_Display number Of Survivors">
       <change afterPath="$PROJECT_DIR$/task5_option3_numberOfEachGender.py" afterDir="false" />
