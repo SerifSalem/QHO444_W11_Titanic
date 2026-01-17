@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5289eab0-5d17-4151-b732-47a7190631d3" name="Changes" comment="Task 8 _Full Project">
-      <change beforePath="$PROJECT_DIR$/Task7_option5_numberOfSurvivalsPerAgeGroup.py" beforeDir="false" afterPath="$PROJECT_DIR$/task7_option5_numberOfSurvivalsPerAgeGroup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task8_fullProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/task8_fullProject.py" afterDir="false" />
+    <list default="true" id="5289eab0-5d17-4151-b732-47a7190631d3" name="Changes" comment="task 1 _ Add explanations">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1_load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/task1_load_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Full-Project&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/MyFiles/Python/PythonProject/QHO444_W11_Titanic&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -82,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1768600119369</updated>
       <workItem from="1768600120408" duration="908000" />
+      <workItem from="1768648676380" duration="384000" />
     </task>
     <task id="LOCAL-00001" summary="Task 1_Load Data">
       <option name="closed" value="true" />
@@ -147,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768600864978</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="task 1 _ Add explanations">
+      <option name="closed" value="true" />
+      <created>1768638189907</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1768638189907</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +171,10 @@
     <MESSAGE value="task 6_option 4_Display number Per Age Groups" />
     <MESSAGE value="Task 7_option 5_Display number Of Survivals Per Age Group" />
     <MESSAGE value="Task 8 _Full Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 8 _Full Project" />
+    <MESSAGE value="task 1 _ Add explanations" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1 _ Add explanations" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/QHO444_W11_Titanic$task8_fullProject.coverage" NAME="task8_fullProject Coverage Results" MODIFIED="1768637199957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

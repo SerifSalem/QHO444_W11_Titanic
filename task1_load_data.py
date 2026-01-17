@@ -39,7 +39,6 @@ def run_task1():
     # Display the number of data records loaded
     print(f"Successfully loaded {len(records)} records.")
 
-
 # Standard Python entry point check
 # Ensures this code runs only when the file is executed directly, not when imported
 if __name__ == "__main__":
